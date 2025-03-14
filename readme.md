@@ -12,7 +12,7 @@ Este é um projeto de um  **To Do List - Básico** desenvolvido em **HTML**, **C
 
 ## 🔢 Funcionalidades
 
-- Use o espaço "O que tenho que fazer" para definir uma acçã e adiocione a lista. 
+- Use o espaço "O que tenho que fazer" para definir uma ação e adiocione a lista. 
 
 
 ## 🌐 Acesse Aqui
